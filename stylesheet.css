@@ -14,3 +14,7 @@ table, th, td {
 	border: 3px solid black;
 	padding: .5rem;
 }
+
+body {
+	margin-left: 3vh;
+}
